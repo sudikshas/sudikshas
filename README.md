@@ -18,18 +18,7 @@ A mobile web application that lets consumers scan barcodes or grocery receipts t
 - Built a deterministic ingredient risk engine with synonym normalization and fuzzy product matching (RapidFuzz + TF-IDF cosine + Cross Encoder ensemble)
 - Integrated AWS Textract for OCR receipt parsing and Claude Haiku via Bedrock for LLM-based ingredient disambiguation
 - Designed and deployed full AWS infrastructure: EC2, RDS (PostgreSQL), IAM policies, SES email alerts
-- Led technical evaluation, slide deck, and live demo for final presentation
----
-#### [Production NLP API — Sentiment Analysis on AWS EKS](https://github.com/yourusername/w255-nlp-api)
-*W255 ML Systems Engineering | DistilBERT · FastAPI · Docker · Kubernetes · Redis · Istio*
- 
-Deployed a fine-tuned DistilBERT sentiment classifier as a scalable, production-grade REST API on AWS EKS.
- 
-- Containerized FastAPI service with Docker; orchestrated via Kubernetes/Kustomize with Horizontal Pod Autoscaling
-- Redis caching layer to reduce redundant inference calls
-- Full observability stack: Istio service mesh + Prometheus metrics + Grafana dashboards
-- Load tested with Locust; documented latency and throughput benchmarks
-  
+- Led technical evaluation, slide deck, and live demo for final presentation 
 ---
 #### [Scalable Flight Delay Prediction: End-to-End ML Pipeline with PySpark & Random Forest](https://github.com/sudikshas/flight-delay-prediction-pyspark)
 *W261 Machine Learning at Scale | PySpark · MLlib · Databricks · Delta Lake · Optuna · Python*
@@ -51,6 +40,17 @@ Built and evaluated an end-to-end Retrieval-Augmented Generation (RAG) pipeline 
 - Engineered persona-specific LLM generation prompts (Cohere + Mistral) to produce tailored responses for technical and business users, reducing hallucinations through retrieval-grounded generation
 - Evaluated system performance using RAGAS metrics (faithfulness, context precision/recall, answer relevance) alongside a custom LLM-as-a-judge scorer (Qwen2.5-7B) and a weighted composite scoring framework
 - Authored an executive POC report with methodology, findings, and scaling recommendations for production deployment
+  
+---
+#### [Production NLP API — Sentiment Analysis on AWS EKS](https://github.com/yourusername/w255-nlp-api)
+*W255 ML Systems Engineering | DistilBERT · FastAPI · Docker · Kubernetes · Redis · Istio*
+ 
+Deployed a fine-tuned DistilBERT sentiment classifier as a scalable, production-grade REST API on AWS EKS.
+ 
+- Containerized FastAPI service with Docker; orchestrated via Kubernetes/Kustomize with Horizontal Pod Autoscaling
+- Redis caching layer to reduce redundant inference calls
+- Full observability stack: Istio service mesh + Prometheus metrics + Grafana dashboards
+- Load tested with Locust; documented latency and throughput benchmarks
   
 ---
 #### [Graph-Powered Food Delivery Optimization — BART Network Analysis](https://github.com/sudikshas/transit-graph-delivery-optimizer)
