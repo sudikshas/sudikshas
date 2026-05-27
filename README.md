@@ -8,7 +8,8 @@ I recently completed my Master’s in Information and Data Science from UC Berke
 
 I’m especially excited about opportunities in machine learning, applied AI, and data science where I can combine strong technical foundations with product thinking, user behavior insights, and business strategy to build impactful, user-focused solutions.
 
-### Projects
+## Projects
+
 #### [RecallGuard — AI-Powered Food Safety App](https://github.com/yourusername/recallguard)
 *W210 Capstone | AWS · FastAPI · React/TypeScript · PostgreSQL · Claude Haiku (Bedrock)*
  
@@ -52,7 +53,7 @@ Built and evaluated an end-to-end Retrieval-Augmented Generation (RAG) pipeline 
 - Authored an executive POC report with methodology, findings, and scaling recommendations for production deployment
   
 ---
-#### Graph-Powered Food Delivery Optimization — BART Network Analysis
+#### [Graph-Powered Food Delivery Optimization — BART Network Analysis](https://github.com/sudikshas/transit-graph-delivery-optimizer)
 *W205 Data Systems | Neo4j · PostgreSQL · Redis · MongoDB · Python · Cypher · Neo4j GDS*
 
 A proof-of-concept data engineering system that models the SF Bay Area BART network as a graph database to optimize food delivery logistics — selecting high-value pickup stations, clustering delivery zones, and routing orders efficiently across 50 stations and 8,000+ customer locations.
@@ -63,7 +64,7 @@ A proof-of-concept data engineering system that models the SF Bay Area BART netw
 - Integrated **PostgreSQL** for structured customer and station data, **Redis** for real-time delivery state, and **MongoDB** for persistent customer profiles and order history
   
 ---
-#### U.S. Housing Market Speed — Descriptive Regression Analysis
+#### [U.S. Housing Market Speed — Descriptive Regression Analysis](https://github.com/sudikshas/us-housing-market-speed-regression)
 *W203 Statistics for Data Science | R · ggplot2 · OLS Regression · sandwich/lmtest · stargazer · Zillow API Data*
 
 Descriptive regression study examining the relationship between average home values and 
@@ -80,7 +81,7 @@ days-to-pending-sale across 672 U.S. metropolitan regions using Zillow data (Jun
 - Produced publication-quality regression table via stargazer comparing OLS and robust 
   coefficient tests across model specifications
 ---
-#### Explainable AI for Racial Bias Detection in CNN Facial Analysis
+#### [Explainable AI for Racial Bias Detection in CNN Facial Analysis](https://github.com/sudikshas/XAI-Website)
 *XAI / Computer Vision | Python · TensorFlow · Keras · Grad-CAM · Integrated Gradients · FairFace · Jekyll*
 
 An interactive research web app that applies Explainable AI (XAI) techniques to a CNN-based racial classification model, surfacing how biased training data produces discriminatory predictions — and making the model's decision-making visible to a general audience.
@@ -93,6 +94,7 @@ An interactive research web app that applies Explainable AI (XAI) techniques to 
 
 
 ### Skills
+
 **Languages & Libraries**
 `Python` `SQL` `R` `TypeScript`
  
