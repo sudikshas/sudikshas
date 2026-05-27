@@ -90,7 +90,7 @@ An interactive research web app that applies Explainable AI (XAI) techniques to 
 - Implemented Grad-CAM and Integrated Gradients in Keras to generate gradient heatmaps that localize which facial features drive each prediction
 - Demonstrated measurable bias: the biased model misclassifies underrepresented races (e.g., Indian → Latino Hispanic) while failing to learn distinctive facial features, confirmed visually through saliency maps
 - Published findings as an interactive educational website targeting public understanding of algorithmic fairness, model transparency, and AI ethics
-
+---
 
 
 ### Skills
