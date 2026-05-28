@@ -10,7 +10,7 @@ I’m especially excited about opportunities in machine learning, applied AI, an
 
 ## Projects
 
-#### <summary>[RecallGuard — AI-Powered Food Safety App](https://github.com/yourusername/recallguard)</summary>
+#### [RecallGuard — AI-Powered Food Safety App](https://github.com/yourusername/recallguard)
 *Capstone Project | AWS · FastAPI · React/TypeScript · PostgreSQL · Claude Haiku (Bedrock)*
  
 A mobile web application that lets consumers scan barcodes or grocery receipts to instantly check for FDA food recalls and assess ingredient-level risk.
