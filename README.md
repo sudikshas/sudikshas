@@ -11,7 +11,7 @@ I’m especially excited about opportunities in machine learning, applied AI, an
 ## Projects
 
 #### [RecallGuard — AI-Powered Food Safety App](https://github.com/yourusername/recallguard)
-* Capstone Project | AWS · FastAPI · React/TypeScript · PostgreSQL · Claude Haiku (Bedrock)*
+*Capstone Project | AWS · FastAPI · React/TypeScript · PostgreSQL · Claude Haiku (Bedrock)*
  
 A mobile web application that lets consumers scan barcodes or grocery receipts to instantly check for FDA food recalls and assess ingredient-level risk.
  
@@ -21,7 +21,7 @@ A mobile web application that lets consumers scan barcodes or grocery receipts t
 - Led technical evaluation, slide deck, and live demo for final presentation 
 ---
 #### [Scalable Flight Delay Prediction: End-to-End ML Pipeline with PySpark & Random Forest](https://github.com/sudikshas/flight-delay-prediction-pyspark)
-* Machine Learning at Scale | PySpark · MLlib · Databricks · Delta Lake · Optuna · Python*
+*Machine Learning at Scale | PySpark · MLlib · Databricks · Delta Lake · Optuna · Python*
 
 Built a distributed ML pipeline to classify U.S. flight delays across 15M+ rows of historical flight and weather data, achieving a ~0.82 weighted F1 score — a 12% improvement over baseline.
 
@@ -32,7 +32,7 @@ Built a distributed ML pipeline to classify U.S. flight delays across 15M+ rows 
   
 ---
 #### [RAG Document Q&A System — Persona-Aware Information Retrieval](https://github.com/sudikshas/adaptive-rag-qa-pipeline)
-* Generative AI | LangChain · Qdrant · Sentence Transformers · Cohere · Mistral · Ragas · Python*
+*Generative AI | LangChain · Qdrant · Sentence Transformers · Cohere · Mistral · Ragas · Python*
 
 Built and evaluated an end-to-end Retrieval-Augmented Generation (RAG) pipeline to improve enterprise document search and Q&A for distinct user personas (engineering and marketing), outperforming a general-purpose LLM baseline on faithfulness, context recall, and answer relevance.
 
@@ -43,7 +43,7 @@ Built and evaluated an end-to-end Retrieval-Augmented Generation (RAG) pipeline 
   
 ---
 #### [Production NLP API — Sentiment Analysis on AWS EKS](https://github.com/yourusername/w255-nlp-api)
-* ML Systems Engineering | DistilBERT · FastAPI · Docker · Kubernetes · Redis · Istio*
+*ML Systems Engineering | DistilBERT · FastAPI · Docker · Kubernetes · Redis · Istio*
  
 Deployed a fine-tuned DistilBERT sentiment classifier as a scalable, production-grade REST API on AWS EKS.
  
@@ -54,7 +54,7 @@ Deployed a fine-tuned DistilBERT sentiment classifier as a scalable, production-
   
 ---
 #### [Graph-Powered Food Delivery Optimization — BART Network Analysis](https://github.com/sudikshas/transit-graph-delivery-optimizer)
-* Data Engineering | Neo4j · PostgreSQL · Redis · MongoDB · Python · Cypher · Neo4j GDS*
+*Data Engineering | Neo4j · PostgreSQL · Redis · MongoDB · Python · Cypher · Neo4j GDS*
 
 A proof-of-concept data engineering system that models the SF Bay Area BART network as a graph database to optimize food delivery logistics — selecting high-value pickup stations, clustering delivery zones, and routing orders efficiently across 50 stations and 8,000+ customer locations.
 
@@ -65,7 +65,7 @@ A proof-of-concept data engineering system that models the SF Bay Area BART netw
   
 ---
 #### [U.S. Housing Market Speed — Descriptive Regression Analysis](https://github.com/sudikshas/us-housing-market-speed-regression)
-* Statistics | R · ggplot2 · OLS Regression · sandwich/lmtest · stargazer · Zillow API Data*
+*Statistics | R · ggplot2 · OLS Regression · sandwich/lmtest · stargazer · Zillow API Data*
 
 Descriptive regression study examining the relationship between average home values and 
 days-to-pending-sale across 672 U.S. metropolitan regions using Zillow data (June 2024).
@@ -82,8 +82,7 @@ days-to-pending-sale across 672 U.S. metropolitan regions using Zillow data (Jun
   coefficient tests across model specifications
 ---
 #### [Sentiment Classification of Company Reviews — Comparing ML & Deep Learning Architectures](https://github.com/sudikshas/NLP_customer_reviews_classification)
-Sentiment Classification of Company Reviews — Comparing ML & Deep Learning Architectures
-W207 Applied Machine Learning | Python · TensorFlow/Keras · Scikit-learn · NLTK · Pandas · NumPy
+*Applied Machine Learning | Python · TensorFlow/Keras · Scikit-learn · NLTK · Pandas · NumPy
 Benchmarked five machine learning models — from a Logistic Regression baseline to Bidirectional LSTM and CNN — on binary sentiment classification of 100,000 real-world customer reviews spanning 45 companies, achieving a best test accuracy of 96.3%.
 
 - Preprocessed and balanced a 100K-review dataset by dropping neutral ratings and sampling 12,000 positive and 12,000 negative reviews to eliminate class bias
@@ -94,7 +93,7 @@ Benchmarked five machine learning models — from a Logistic Regression baseline
 
 ---
 #### [Explainable AI for Racial Bias Detection in CNN Facial Analysis](https://github.com/sudikshas/XAI-Website)
-* XAI / Computer Vision | Python · TensorFlow · Keras · Grad-CAM · Integrated Gradients · FairFace · Jekyll*
+*XAI / Computer Vision | Python · TensorFlow · Keras · Grad-CAM · Integrated Gradients · FairFace · Jekyll*
 
 An interactive research web app that applies Explainable AI (XAI) techniques to a CNN-based racial classification model, surfacing how biased training data produces discriminatory predictions — and making the model's decision-making visible to a general audience.
 
@@ -105,7 +104,7 @@ An interactive research web app that applies Explainable AI (XAI) techniques to 
 
 ---
 #### [Snapchat Political Ads — Engagement Prediction & Fairness Analysis](https://github.com/sudikshas/Snapchat-Political-Ads-Data-Analysis-Project)
-* Python · Pandas · Scikit-learn · Matplotlib · Seaborn · pytz*
+*Machine Learning · Python · Pandas · Scikit-learn · Matplotlib · Seaborn · pytz*
 
 End-to-end analysis of 2,000+ Snapchat political ads (2018–2019) to identify characteristics
 that drive ad reach, culminating in a fairness-evaluated classification model that predicts
