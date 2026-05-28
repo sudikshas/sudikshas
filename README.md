@@ -128,16 +128,16 @@ high vs. low view count with ~91% accuracy.
 ### Skills
 
 **Languages & Libraries**
-`Python` `SQL` `R` `TypeScript`
+`Python` `SQL` `R` 
  
 **ML & Stats**
-`XGBoost` `scikit-learn` `SHAP` `Causal Inference` `A/B Testing` `Propensity Score Matching` `DistilBERT` `TF-IDF` `RapidFuzz`
+`XGBoost` `scikit-learn` `SHAP` `Logistic Regression` `LLM` `BERT` `TF-IDF` `Causal Inference` `A/B Testing`
  
 **MLOps & Cloud**
-`AWS (EC2, EKS, Bedrock, RDS, Textract, SES, IAM)` `Docker` `Kubernetes` `FastAPI` `Redis` `Prometheus` `Grafana` `Istio`
+`AWS (EC2, EKS, Bedrock, RDS, IAM)` `Docker` `Kubernetes` `FastAPI` `Redis` `Prometheus` `Grafana` `Istio` `PostgreSQL`
  
 **Data & Visualization**
-`Pandas` `NumPy` `Matplotlib` `Seaborn` `Veeva Compass` `PostgreSQL`
+`Pandas` `NumPy` `Matplotlib` `Seaborn` 
 
 
 <!--
