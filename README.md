@@ -27,7 +27,7 @@ A mobile web application that lets consumers scan barcodes or grocery receipts t
 #### [Scalable Flight Delay Prediction: End-to-End ML Pipeline with PySpark & Random Forest](https://github.com/sudikshas/flight-delay-prediction-pyspark)
 *Machine Learning at Scale | PySpark · MLlib · Databricks · Delta Lake · Optuna · Python*
 
-Built a distributed ML pipeline to classify U.S. flight delays across 15M+ rows of historical flight and weather data, achieving a ~0.82 weighted F1 score — a 12% improvement over baseline.
+Built a distributed ML pipeline to classify U.S. flight delays across 15M+ rows of historical flight and weather data and engineering RFM (Recency, Frequency, Monetary) and graph-based features.
 
 <details> 
  
